@@ -1,0 +1,50 @@
+# 📚 Resumen sobre Git y GitHub
+
+Hola equipo 👋,  
+Aquí les comparto un resumen de lo que sé sobre Git y GitHub, y también las dudas que aún tengo.  
+
+---
+
+## ✅ Lo que sé
+
+### Git
+- Git es un **sistema de control de versiones distribuido**.
+- Permite **guardar cambios en el código**, regresar a versiones anteriores y trabajar en paralelo.
+- Algunos comandos clave que manejo:
+  - `git init` → Inicia un repositorio nuevo.
+  - `git clone` → Clona un repositorio existente.
+  - `git add` → Añade cambios al área de staging.
+  - `git commit -m "mensaje"` → Guarda los cambios con un mensaje descriptivo.
+  - `git push` → Sube los cambios al repositorio remoto.
+  - `git pull` → Trae cambios del remoto a mi copia local.
+
+### GitHub
+- GitHub es una **plataforma para alojar repositorios Git en la nube**.
+- Permite colaborar con otros desarrolladores mediante **pull requests y issues**.
+- Se pueden crear **branches** para trabajar en nuevas funciones sin afectar la rama principal (`main` o `master`).
+- Los repositorios pueden ser públicos o privados, según la visibilidad que queramos.
+
+### Buenas prácticas que aplico
+- Commits claros y descriptivos ✅
+- Trabajar en ramas para cada feature o bugfix ✅
+- Revisar los cambios antes de hacer push ✅
+
+---
+
+## ❓ Lo que aún me confunde
+
+- Cómo **resolver conflictos complejos** cuando varias personas editan la misma línea de un archivo.
+- La diferencia exacta entre **fork y clone** en términos prácticos para colaborar en proyectos grandes.
+- Estrategias óptimas para mantener un **repositorio limpio y organizado** a medida que crece.
+- Flujo ideal de trabajo con **pull requests grandes vs pequeños**.
+
+---
+
+## 💡 Próximos pasos
+- Practicar con un repositorio de prueba para **resolver conflictos**.
+- Explorar más sobre **GitHub Actions y automatizaciones**.
+- Aprender a crear **README y documentación efectiva** para proyectos compartidos.
+
+---
+
+¡Espero que este resumen les sirva y podamos discutir juntos las dudas! 🚀
